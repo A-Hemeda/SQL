@@ -1,0 +1,18 @@
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.exe
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.deps.json
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.runtimeconfig.json
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.dll
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.pdb
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\bin\Debug\net6.0\Classes.dll
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\bin\Debug\net6.0\Classes.pdb
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.csproj.AssemblyReference.cache
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfoInputs.cache
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfo.cs
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.csproj.CoreCompileInputs.cache
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.csproj.CopyComplete
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.dll
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\obj\Debug\net6.0\refint\Library Management System.dll
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.pdb
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.genruntimeconfig.cache
+F:\.NET TRACK\Assignments\OOP\Library Management System\Library Management System\obj\Debug\net6.0\ref\Library Management System.dll
